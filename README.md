@@ -1,6 +1,6 @@
 ### Hello Github!
 
-My name is **LinkerScript**, you can call me **Link** for short though.
+My name is **0vn**
 
 ![](https://komarev.com/ghpvc/?username=LinkerScript&label=Profile+Viewers)
 
