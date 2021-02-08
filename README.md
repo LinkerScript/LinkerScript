@@ -1,2 +1,1 @@
-my discord account just got deleted
-great
+py + alot of other languages developer
