@@ -16,4 +16,4 @@
   </tr>
 </table>
 </p>
-<h5>Thanks to slow, aka eternal on github for the readme.</h5>
+<h5>Thanks to <a href="https://github.com/slow">slow</a>, aka eternal on github for the readme.</h5>
