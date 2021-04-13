@@ -1,4 +1,6 @@
-<h2 align="center">👋, These are my stats.</h2>
+<h2 align="center">👋, I'm ultimating.</h2>
+
+<h1>My stats</h1>
 <a href="https://github.com/loud1337">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ultimating" alt="Profile Views Count">
@@ -12,4 +14,9 @@
     </td>
   </tr>
 </table>
+</p>
+
+<h1>Contact</h1>
+<p align="center">
+   **Discord**: troll#0001 (main)
 </p>
