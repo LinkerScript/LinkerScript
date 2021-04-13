@@ -1,7 +1,7 @@
 <h2 align="center">👋, These are my stats.</h2>
 <a href="https://github.com/loud1337">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=loud1337" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=ultimating" alt="Profile Views Count">
   </p>
 </a>
 <p align="center">
@@ -13,4 +13,3 @@
   </tr>
 </table>
 </p>
-<h5>Thanks to <a href="https://github.com/slow">slow</a>, aka eternal on github for the readme.</h5>
