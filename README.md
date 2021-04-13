@@ -1,5 +1,13 @@
-<h2>👋, I'm ultimating.</h2>
+<style>
 
+h4 {
+   color: purple;
+}
+
+</style>
+
+<h2>Hi! I'm ultimating.</h2>
+<h4>hi</h4>
 <h3>My stats</h3>
 <a href="https://github.com/loud1337">
   <p>
