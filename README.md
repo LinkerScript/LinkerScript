@@ -16,7 +16,7 @@
 </table>
 </p>
 
-<h3>Contact</h3>
+
 <p align="center">
-   Discord: troll#0001 (main)
+   troll#0001
 </p>
