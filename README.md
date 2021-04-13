@@ -1,4 +1,4 @@
-<h2 align="center">👋, I'm ultimating.</h2>
+<h2>👋, I'm ultimating.</h2>
 
 <h1>My stats</h1>
 <a href="https://github.com/loud1337">
@@ -18,5 +18,5 @@
 
 <h1>Contact</h1>
 <p align="center">
-   **Discord**: troll#0001 (main)
+   Discord: troll#0001 (main)
 </p>
